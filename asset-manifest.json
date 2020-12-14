@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/win95/static/css/main.27be5be3.chunk.css",
+    "main.js": "/win95/static/js/main.d9f49314.chunk.js",
+    "main.js.map": "/win95/static/js/main.d9f49314.chunk.js.map",
+    "runtime-main.js": "/win95/static/js/runtime-main.b06a81d1.js",
+    "runtime-main.js.map": "/win95/static/js/runtime-main.b06a81d1.js.map",
+    "static/js/2.d502a6fb.chunk.js": "/win95/static/js/2.d502a6fb.chunk.js",
+    "static/js/2.d502a6fb.chunk.js.map": "/win95/static/js/2.d502a6fb.chunk.js.map",
+    "index.html": "/win95/index.html",
+    "precache-manifest.2788cbd5e1b4b4e757b87dcc6d484319.js": "/win95/precache-manifest.2788cbd5e1b4b4e757b87dcc6d484319.js",
+    "service-worker.js": "/win95/service-worker.js",
+    "static/css/main.27be5be3.chunk.css.map": "/win95/static/css/main.27be5be3.chunk.css.map",
+    "static/js/2.d502a6fb.chunk.js.LICENSE.txt": "/win95/static/js/2.d502a6fb.chunk.js.LICENSE.txt",
+    "static/media/blue_rivets_preview.png": "/win95/static/media/blue_rivets_preview.f3c3e33d.png",
+    "static/media/bubbles-wallpaper.png": "/win95/static/media/bubbles-wallpaper.262dcc04.png",
+    "static/media/bubbles_preview.png": "/win95/static/media/bubbles_preview.b60ff063.png",
+    "static/media/carved_stone_preview.png": "/win95/static/media/carved_stone_preview.589dd733.png",
+    "static/media/craved-stone-wallpaper.png": "/win95/static/media/craved-stone-wallpaper.d50e1004.png",
+    "static/media/loading.gif": "/win95/static/media/loading.95487bc0.gif",
+    "static/media/metal-links-wallpaper.png": "/win95/static/media/metal-links-wallpaper.122969d5.png",
+    "static/media/metal_links_preview.png": "/win95/static/media/metal_links_preview.605d275b.png",
+    "static/media/red-block-wallpaper.png": "/win95/static/media/red-block-wallpaper.aec960d8.png",
+    "static/media/red_blocks_preview.png": "/win95/static/media/red_blocks_preview.28055d31.png",
+    "static/media/straw-mat-wallpaper.png": "/win95/static/media/straw-mat-wallpaper.3ca20491.png",
+    "static/media/straw_mat_preview.png": "/win95/static/media/straw_mat_preview.acbb4908.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b06a81d1.js",
+    "static/js/2.d502a6fb.chunk.js",
+    "static/css/main.27be5be3.chunk.css",
+    "static/js/main.d9f49314.chunk.js"
+  ]
+}
